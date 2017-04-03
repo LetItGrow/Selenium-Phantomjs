@@ -15,3 +15,11 @@
    3. 验证代理ip有效性
    4. 对有效性进行标记，以便清理无效ip
  * 加入重试参数（主要为大范围抓取防止遗漏）
+ 
+ # selenium 滑动验证码破解:
+ 
+![Crack Geetest](./huadongpojie/huadongpojie1.gif)
+---
+![Crack Geetest](./huadongpojie/huadongpojie2.gif)
+---
+![Crack Geetest](./huadongpojie/huadongpojie3.gif)
